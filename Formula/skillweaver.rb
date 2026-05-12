@@ -1,9 +1,9 @@
 class Skillweaver < Formula
   desc "TUI package manager for AI agent skills and rules"
   homepage "https://github.com/GustavoGutierrez/skillweaver"
-  url "https://github.com/GustavoGutierrez/skillweaver/releases/download/v0.0.3/skillweaver-x86_64-unknown-linux-musl.tar.gz"
-  sha256 "4128ef2c22d32991f535e6543ee13d814e9d19abd1dd824c5dd13b0c988a6dd0"
-  version "0.0.3"
+  url "https://github.com/GustavoGutierrez/skillweaver/releases/download/v0.0.4/skillweaver-x86_64-unknown-linux-musl.tar.gz"
+  sha256 "dadf11783b7a76f3b9a6470c1fe6cb2f974443340acd9fc3bc3bd7de887322ab"
+  version "0.0.4"
   license "MIT"
 
   on_linux do
